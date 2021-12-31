@@ -2,4 +2,8 @@
 
 วิธีใช้ python AIS.py
 
-# Discord https://discord.gg/RC4KEDakbd
+# Discord
+https://discord.gg/RC4KEDakbd
+
+# YouTube
+https://www.youtube.com/channel/UCUuji8mlYoiKyFP8ROchVsA
