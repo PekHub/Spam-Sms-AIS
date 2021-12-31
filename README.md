@@ -1,6 +1,8 @@
 # Spam-Sms-AIS
 
-วิธีใช้ python AIS.py
+วิธีใช้
+git clone https://github.com/PekHub/Spam-Sms-AIS.git
+python AIS.py
 
 
 # Followers Me
